@@ -1,0 +1,15 @@
+{
+  "USERNAME_NOT_EMPTY": "User name cannot be empty",
+  "EMAIL_NOT_EMPTY": "Email cannot be empty",
+  "EMAIL_INVALID": "Email has invalid format",
+  "PASSWORD_NOT_EMPTY": "Password cannot be empty",
+  "PASSWORD_IS_STRING": "Password must be a string",
+  "PASSWORD_MIN": "Password need to be at least {constraints.0}",
+  "PASSWORD_CONFIRM_NOT_EMPTY": "Password confirm cannot be empty",
+  "PASSWORD_CONFIRM_NOT_MATCH": "Password and password confirm not match",
+  "USER_EMAIL_BUSY": "Email busy",
+  "PAGE_TITLE_NOT_EMPTY": "Page title cannot be empty",
+  "PAGE_SLUG_NOT_EMPTY": "Page url name cannot be empty",
+  "PAGE_SLUG_INVALID": "Page url name cannot be empty",
+  "PAGE_SLUG_BUSY": "Page url name busy"
+}
